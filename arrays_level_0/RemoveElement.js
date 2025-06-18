@@ -1,3 +1,5 @@
+// leetcode 27
+
 var removeElement = function(nums, val) {
     let x = 0;
     for(let i=0; i<nums.length; i++){
